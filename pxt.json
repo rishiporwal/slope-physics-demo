@@ -1,0 +1,22 @@
+{
+    "name": "slope-physics-demo",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "physics.ts",
+        "projectile.ts",
+        "assets.ts",
+        "animate.ts",
+        "updater.ts",
+        "trigger.ts"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
